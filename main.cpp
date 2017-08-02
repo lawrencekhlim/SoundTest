@@ -1,7 +1,7 @@
 #include <iostream>
 #include "SDL2.framework/Headers/SDL.h"
 
-#define FILE_PATH "./res/audio/testClip.wav"
+#define FILE_PATH "testClip.wav"
 
 struct AudioData
 {
